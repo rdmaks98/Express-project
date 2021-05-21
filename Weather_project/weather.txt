@@ -1,0 +1,5 @@
+******** how to use weather api***********
+1. login weather api 
+    i] https://www.weatherapi.com/
+    ii] https://openweathermap.org/api/weather-map-2
+2. choose webapi as per requirement

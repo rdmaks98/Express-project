@@ -1,0 +1,10 @@
+Step 1 : first install {npm init} as per chossable folder
+step 2 : then install express framework {npm i express}
+step 3 : npm i hbs
+step 4 	: nodemon start write in your cmd prompt
+step 5 : then follow example 1 to 5
+step 6 : if you require any website call in express and shown that pages use hbs extension file
+         first require {npm i hbs} and call. follow example 6 to 7
+step 7 : if you want store data in database that time use mongodb compass
+         
+
